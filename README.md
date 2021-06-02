@@ -54,11 +54,9 @@ The living body is the central object of all politics.
 ```
 *Paul B. Preciado, Learning from the Virus*
 
-The installation places collected voices as an audio visual experience. Collected voices that seek to express their own particular individual experience of the context of the pandemic.
+The installation presents a still-in-development archive of voices as an audio visual experience. This archive seeks to create a collective experience of sharing, provides a singular meditative space of communion among the diversity of cultures, backgrounds, as well as subjective perspectives during this time of a collective struggle.
 
-Reflecting the global aspect of this hyper-event, this is intended as a language-specific experience, exploring and indeterminacy of languages and how they interact and collide with each other while orbiting the present time of uncertainty.
-
-This dynamic archive of voices seeks to create a collective experience of sharing, a singular meditative space of communion among the diversity of subjective perspectives during this time of collective struggle.
+Reflecting the global aspect of this hyper-event, this installation is produced as a language-specific experience. Through the exploration of interaction and collisions between sounds, images, and shapes of different languages, an abstract environment is formed which orbits in the present time of uncertainty.
 
 ### Simulation
  
