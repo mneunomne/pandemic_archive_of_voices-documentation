@@ -1,6 +1,6 @@
 ## information
 * Title: The Pandemic Archive of Voices
-* Student/s: Alberto Harres
+* Student/s: Alberto Harres, Chi Him Chik
 * Course Title: These Designs Will Fix the World
 * Lecturer/s: Prof. Dennis P. Paul
 * Year: WS 2020/21
