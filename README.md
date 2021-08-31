@@ -4,7 +4,6 @@
 
 *Sound design and composition*: [Chi Him Chik](http://www.chihimchik.com/)
 
-
 ![](./images/cover.png)
  
 ## The Archive
