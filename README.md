@@ -24,7 +24,7 @@ The first collection of these audios was made possible through a telegram group,
 
 For the installation to be displayed to the public, an online form was developed to make an independent form of audio contribution: 
 
-![Contribution form](./images/form.png)
+![Contribution form](./images/form.PNG)
  
 ## The Installation
  
